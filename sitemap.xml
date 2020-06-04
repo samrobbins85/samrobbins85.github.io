@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samrobbins.uk/categories/</loc>
+    <lastmod>2020-01-01T15:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/portfolio/durhack-2019/</loc>
+    <lastmod>2020-01-01T15:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/categories/web-dev/</loc>
+    <lastmod>2020-01-01T15:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/blog/first-blog/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/contact/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/</loc>
+    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samrobbins.uk/tags/</loc>
+  </url>
+  
+</urlset>
