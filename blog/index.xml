@@ -1,24 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Sam Robbins</title>
-    <link>https://samrobbins.uk/blog/</link>
-    <description>Recent content in Blog on Sam Robbins</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
-    
-	<atom:link href="https://samrobbins.uk/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Making a new Website</title>
-      <link>https://samrobbins.uk/blog/first-blog/</link>
-      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://samrobbins.uk/blog/first-blog/</guid>
-      <description>For a long time this website has had a couple of links to contact me, but those days are over.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Sam Robbins</title><link>https://samrobbins.uk/blog/</link><description>Recent content in Blog on Sam Robbins</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://samrobbins.uk/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Publishing a React component library with Tailwind CSS</title><link>https://samrobbins.uk/blog/publishing-a-react-component-library-with-tailwind-css/</link><pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate><guid>https://samrobbins.uk/blog/publishing-a-react-component-library-with-tailwind-css/</guid><description>First you need to make an npm package, this can be done with npm init provided you have npm installed on your computer. For the name if you want a scoped package, e.g. @samrobbins/package, ensure that the package name follows that structure, otherwise, you can just go with package. Remember that these have to be unique, so check npm to ensure you&amp;rsquo;re not overlapping. Also ensure that your main key is output.</description></item><item><title>Adding captions to images in MDX</title><link>https://samrobbins.uk/blog/adding-captions-to-images-in-mdx/</link><pubDate>Mon, 14 Sep 2020 23:00:00 +0000</pubDate><guid>https://samrobbins.uk/blog/adding-captions-to-images-in-mdx/</guid><description>Using MDX you can overwrite the default components that are provided by markdown. In this blog I will use this to add captions to images.
+The first thing to do is to look at the table of components for MDX, and here we can see that images are represented by img. By following the link we can see the markdown
+![alpha](https://example.com/favicon.ico &amp;#34;bravo&amp;#34;) Yields the following items
+{ type: &amp;#39;image&amp;#39;, url: &amp;#39;https://example.</description></item><item><title>Hugo versions in hosting</title><link>https://samrobbins.uk/blog/hugo-versions-in-hosting/</link><pubDate>Fri, 26 Jun 2020 23:00:00 +0000</pubDate><guid>https://samrobbins.uk/blog/hugo-versions-in-hosting/</guid><description>I recently wanted to add some syntax highlighting to my Hugo theme, a simple enough task right? Hop over onto the Hugo documentation here and change the config file. I then ran hugo server to check everything was working, and it was looking wonderful
+So what&amp;rsquo;s the problem? I wanted to deploy it. I use Vercel hosting for all my projects, which is fantastic and as you will see, this is more an oversight on my part than their fault.</description></item><item><title>Making a new Website</title><link>https://samrobbins.uk/blog/first-blog/</link><pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate><guid>https://samrobbins.uk/blog/first-blog/</guid><description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog Why Hugo? The first question is why a site builder?</description></item></channel></rss>
